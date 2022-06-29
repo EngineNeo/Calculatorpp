@@ -63,6 +63,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -115,6 +116,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -141,6 +143,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -193,6 +196,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -245,6 +249,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -271,6 +276,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -349,6 +355,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -369,6 +376,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -395,6 +403,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -421,6 +430,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -447,6 +457,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -473,6 +484,7 @@ QPushButton:pressed {
 	background-color: #C0C0C0;
 	border: 1px solid gray;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
