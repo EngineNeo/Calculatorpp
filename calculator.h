@@ -2,6 +2,7 @@
 #define CALCULATOR_H
 
 #include <QMainWindow>
+#include <QRegularExpression>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -23,7 +24,7 @@ private:
 private slots:
     void NumPressed();
     void MathButtonPressed();
-  //  void EqualButton();
-   // void ChangeNumberSign();
+    void EqualButton();
+    void ChangeNumberSign();
 };
 #endif // CALCULATOR_H
